@@ -2,7 +2,7 @@
     "name": "dhsservices/m2checkoutconsoletypeerrorrecaptcha",
     "description": "DHSServices M2CheckoutConsoleTypeErrorReCaptcha module",
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "MIT",
     "authors": [
         {
@@ -10,6 +10,7 @@
             "email": "ict@dhs-services.nl"
         }
     ],
+  "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "files": [
