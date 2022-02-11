@@ -1,8 +1,8 @@
 {
-    "name": "dhsservices/checkoutconsoletypeerrorrecaptcha",
-    "description": "DHSServices CheckoutConsoleTypeErrorReCaptcha module",
+    "name": "dhsservices/m2checkoutconsoletypeerrorrecaptcha",
+    "description": "DHSServices M2CheckoutConsoleTypeErrorReCaptcha module",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "DHSServices\\CheckoutConsoleTypeErrorReCaptcha\\": ""
+            "DHSServices\\M2CheckoutConsoleTypeErrorReCaptcha\\": ""
         }
     }
 }

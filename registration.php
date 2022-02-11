@@ -5,5 +5,5 @@
  */
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'DHSServices_CheckoutConsoleTypeErrorReCaptcha', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'DHSServices_M2CheckoutConsoleTypeErrorReCaptcha', __DIR__);
 
